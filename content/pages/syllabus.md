@@ -59,30 +59,229 @@ Course Grade in 21M.011
 
 The individual recitation instructors give the grades in this class, adhering to the following percentages:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Papers, Oral Contributions to Recitation, and Attendance | 50% |
-| Midterm and Final Exams | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers, Oral Contributions to Recitation, and Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm and Final Exams
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "cal" >}}{{< /anchor >}}Calendar
 -------------------------------------------
 
-| Lec # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction; Music of the Middle Ages | &nbsp; |
-| 2 | Renaissance and Early Baroque Music for Church, Chamber, and Theater | &nbsp; |
-| 3 | Baroque Instrumental Music: Suite, Concerto, and Fugue; Bach | Essay 1 due in recitation |
-| 4 | Baroque Vocal Music: Opera, Oratorio, and Cantata; Handel | &nbsp; |
-| 5 | The Classical Symphony and Sonata: Haydn | &nbsp; |
-| 6 | The Classical Concerto and Opera: Mozart | Essay 2 due in recitation |
-| 7 | Midterm Exam | &nbsp; |
-| 8 | From Classic to Romantic: Beethoven | &nbsp; |
-| 9 | Romantic Songs and Piano Pieces: The Art of the Miniature | &nbsp; |
-| 10 | Romantic Program Music and Opera: Fantasies on a Grand Scale | &nbsp; |
-| 11 | Late Romantic Orchestral Music: Looking Forward and Back | Essay 3 due in recitation |
-| 12 | The Twentieth Century: The European Tradition | &nbsp; |
-| 13 | The Twentieth Century: The American Tradition | Essay 4 due in recitation |
-| 14 | Catch-up and Review |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction; Music of the Middle Ages
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Renaissance and Early Baroque Music for Church, Chamber, and Theater
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Baroque Instrumental Music: Suite, Concerto, and Fugue; Bach
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due in recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Baroque Vocal Music: Opera, Oratorio, and Cantata; Handel
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Classical Symphony and Sonata: Haydn
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Classical Concerto and Opera: Mozart
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due in recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+From Classic to Romantic: Beethoven
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Romantic Songs and Piano Pieces: The Art of the Miniature
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Romantic Program Music and Opera: Fantasies on a Grand Scale
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Late Romantic Orchestral Music: Looking Forward and Back
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due in recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The Twentieth Century: The European Tradition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The Twentieth Century: The American Tradition
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 4 due in recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Catch-up and Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Acknowledgements
 ----------------
