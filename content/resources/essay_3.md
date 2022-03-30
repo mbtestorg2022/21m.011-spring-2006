@@ -5,6 +5,7 @@ description: This file contains the topic on the essay - The opposition of forma
   composers.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-011-introduction-to-western-music-spring-2006/86bc3ea082b8fed12e770a6df127c407_essay_3.pdf
 file_type: application/pdf
+parent_uid: a70f7e23-8259-456a-c463-c1f5ce99328a
 resourcetype: Document
 title: essay_3.pdf
 uid: 86bc3ea0-82b8-fed1-2e77-0a6df127c407

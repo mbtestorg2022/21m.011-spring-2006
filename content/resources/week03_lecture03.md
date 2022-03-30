@@ -5,6 +5,7 @@ description: 'This section contains topics: Science,Philosophy,Art,Literature,Dr
   features,Today?s genre,Terms.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-011-introduction-to-western-music-spring-2006/70eb2414c59c44cc0d10d699e222a167_week03_lecture03.pdf
 file_type: application/pdf
+parent_uid: 5da598ad-2f9d-a06c-dce4-5757b2c37623
 resourcetype: Document
 title: week03_lecture03.pdf
 uid: 70eb2414-c59c-44cc-0d10-d699e222a167
